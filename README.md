@@ -20,6 +20,10 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **Circuit diagram**
 
+![ex3](https://github.com/user-attachments/assets/58d124c8-e034-496a-99d3-303c5c6ce242)
+
+![ex3a](https://github.com/user-attachments/assets/c51171a4-aec0-4dbd-bfe1-0672767a1450)
+
 
  
 **PROCEDURE:**
@@ -38,12 +42,12 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **RESULT:**
 
-Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 	V supply are:
+Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 2	V supply are:
 
-a)	The voltage V1 is	V.
+a)	The voltage V1 is 0.638V.
 
-b)	The voltage V2 is	V.
+b)	The voltage V2 is  0.186V.
 
-c)	The voltage V3 is	V.
+c)	The voltage V3 is	0.452V.
 
 
